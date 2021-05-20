@@ -1,0 +1,179 @@
+.cabecalho-topo{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-around;
+    height:50px;
+    background: #ffffff;
+    border-bottom:1px solid #eee;
+    color:#000000;
+  
+}
+/*formataçao de imagens*/
+img#fototopo{
+    width: 6%;
+    position: absolute;
+    top: 0px;
+    left: 350px;
+}
+
+img.foto-cap{
+    width: 1885px;
+    height: 300px;
+    margin-top: 10px;
+    opacity: 0.5;
+}
+/*CONFIGURAÇAO MENU */
+nav#menu{
+    display: block;
+}
+nav#menu li{
+    display: inline-flex;
+}
+nav#menu{
+    border: 3px solid rgb(160, 7, 7);
+    margin-top: 40px;
+    background-color: rgb(160, 7, 7);
+    box-shadow: 5px 5px 5px black;
+}
+nav#menu li:hover {
+    background-color:#606060;
+}
+nav#menu a {
+    color: white;
+    text-decoration: none;
+}
+nav#menu a:hover {
+    color: #ffffff;
+}
+li.ini{
+    font-size: 20pt;
+    margin-left: 550px;
+}
+li.emp{
+    font-size: 20pt;
+    margin-left: 30px;
+}
+li.comp{
+    font-size: 20pt;
+    margin-left: 30px;
+}
+li.cot{
+    font-size: 20pt;
+    margin-left: 30px;
+}
+
+
+
+.right{
+    margin-left: 350px;
+    size: 25pt;
+    font-family: arial;
+    margin-top: 20px;
+    
+}
+
+/*quaser final*/
+
+h1.topa-tudo{
+    color: red;
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 30pt;
+}
+h2.topa-tudo1{
+    font-size: 13pt;
+    margin-left: 300px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+h2.topa-tudo2{
+   font-size: 13pt;
+   margin-left: 300px;
+   margin-top: 20px;
+   font-family: sans-serif;
+}
+h2.topa-tudo3{
+   font-size: 13pt;
+   margin-left: 300px;
+   margin-top: 20px;
+   font-family: sans-serif;
+}
+h2.topa-tudo4{
+   font-size: 13pt;
+   margin-left: 300px;
+   margin-top: 20px;
+   font-family: sans-serif;
+}
+
+/* LADO DIREITO AGORA DO QUASER FINAL*/
+h1.topa-1{
+   font-size: 30pt;
+   color: red;
+   margin-left: 1100px;
+   margin-top: -368px;
+}
+h2.topa-2{
+   font-size: 13pt;
+   margin-left: 1100px;
+   margin-top: 20px;
+   font-family: sans-serif;
+   margin-bottom: 20px;
+}
+li.ct{
+   font-size: 13pt;
+   color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 1100px;
+}   
+
+/* rodape */
+footer.final{
+    border: 5px solid rgb(160, 7, 7);
+    margin-top: 100px;
+    background-color: rgb(160, 7, 7);
+    box-shadow: 10px 10px 10px 10px black;
+}
+h1.titulo-final{
+    font-size: 15pt;
+    margin-left: 400px;
+    color: white;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+h1.e-mail{
+    font-size: 15pt;
+    margin-left: 400px;
+    color: white;
+    font-family: sans-serif;
+}
+h1.contato{
+    font-size: 15pt;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 800px;
+    margin-top: -50px;
+}
+h1.endereco{
+    font-size: 15pt;
+    color: white;
+    font-family: sans-serif;
+    margin-top: -100px;
+    margin-left: 1200px;
+}
+h1.titulo-foda{
+    font-size: 25pt;
+    color: black;
+    margin-left: 400px;
+    margin-top: 50px;
+
+}
+
+/*titulo-final*/
+h1.titulo-20{
+    font-size: 25pt;
+    color: black;
+    margin-left: 400px;
+    margin-top: -150px;
+
+}
